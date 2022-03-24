@@ -8,7 +8,7 @@
 - JPA에 제공하지 않기 때문에 네이티브 쿼리 생성
 ```sql
 SELECT * FROM boardTbl WHERE title LIKE '%:keyword%';
-
+```
 - mustache에서 form 태그로 요청 or fetch 요청
 
 ### 팁
